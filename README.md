@@ -1,7 +1,7 @@
 ## olá eu sou alessandro camargo 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML,CSS,JAVA,Javascript e Banco de Dados
+- 🌱 Estudando HTML, CSS, JAVA, Javascript e Banco de Dados
  - 🔭 Desenvolvendo meus primeiros projetos
 
 
